@@ -1,2 +1,2 @@
 # sendLines
-A simple consolemessenger
+Just messenger
